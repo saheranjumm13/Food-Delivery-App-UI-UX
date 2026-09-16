@@ -30,29 +30,6 @@ A modern food delivery mobile application UI/UX designed in Figma.
 - Order tracking
 - User profile
 
-## 🖼️ Screenshots
-
-### Splash & Onboarding
-![Splash](Screenshots/splash.png)
-
-### Home
-![Home](Screenshots/home.png)
-
-### Restaurants
-![Restaurants](Screenshots/restaurants.png)
-
-### Food Details
-![Food Details](Screenshots/food-details.png)
-
-### Cart & Checkout
-![Cart](Screenshots/cart.png)
-
-### Order Tracking
-![Order Tracking](Screenshots/order-tracking.png)
-
-### Profile
-![Profile](Screenshots/profile.png)
-
 ## 🔗 Figma Design
 
-[View Figma Design](YOUR_FIGMA_LINK_HERE)
+[(https://www.figma.com/design/CLbG1CD7uLkLEu7ES475vy/Food-Delivery-App?node-id=0-1&t=leHhqcQ0BklNTAF4-1)]
